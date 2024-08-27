@@ -1,7 +1,7 @@
 # MDP REPRESENTATION
 
 ## AIM:
-Write your aim here
+The representation of real world scenario using Markov Decision Process by stating all the states,actions and environment with respective rewards.
 
 ## PROBLEM STATEMENT:
 
