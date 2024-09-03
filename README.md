@@ -12,23 +12,23 @@ To learn the best timing for each traffic signal light to improve traffic flow w
 The traffic signal has 3 Intersections or 3 states
 
 ### Sample State
-Intersection 1 : 0
-Intersection 2: 1
+Intersection 1: 0,
+Intersection 2: 1,
 Intersection 3: 2
 
 ### Action Space
 There are 3 action space :
-green : move forward 
-yellow : get ready 
+green : move forward ,
+yellow : get ready ,
 red : stop
 
 ### Sample Action
-Action : yellow -> get ready 
-can change to red / move another intersection / stay yellow
+Action : yellow -> get ready ,
+(can change to red / move another intersection / stay yellow)
 
 ### Reward Function
-green: 10,    # Reward for keeping the light green
-yellow: 5,    # Reward for transitioning to yellow
+green: 10   # Reward for keeping the light green,
+yellow: 5  # Reward for transitioning to yellow,
 red: -5       # Penalty for being in red
 
 ### Graphical Representation
