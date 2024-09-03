@@ -9,12 +9,13 @@ Traffic signal control optimization
 To learn the best timing for each traffic signal light to improve traffic flow while ensuring safety 
 
 ### State Space
-The traffic signal has 3 Intersections or 3 states
+The traffic signal has 4 Intersections or 4 states
 
 ### Sample State
 Intersection 1: 0,
 Intersection 2: 1,
-Intersection 3: 2
+Intersection 3: 2,
+Intersection 4: 3
 
 ### Action Space
 There are 3 action space :
