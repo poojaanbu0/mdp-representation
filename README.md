@@ -33,6 +33,7 @@ yellow: 5  # Reward for transitioning to yellow,
 red: -5       # Penalty for being in red
 
 ### Graphical Representation
+![WhatsApp Image 2024-09-03 at 22 17 20_17ef7125](https://github.com/user-attachments/assets/82606341-ef03-475d-ae67-6758f5ada7ff)
 
 
 ## PYTHON REPRESENTATION:
